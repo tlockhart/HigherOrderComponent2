@@ -17,9 +17,9 @@ class Model extends Component {
     this.setState({data: newObject});
   }
 
-  render() {
-    return (<>this is a test!</>);
-  }
+  // render() {
+  //   return (<>this is a test!</>);
+  // }
 }
 
 export default Model;
